@@ -1,0 +1,12 @@
+body
+{
+	background:aqua;
+	display:flex;
+	flex-direction:column;
+}
+div
+{
+	width:400px;
+	height:200px;
+	border:1px maroon solid;
+}
